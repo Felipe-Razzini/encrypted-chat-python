@@ -1,4 +1,4 @@
-### Encrypted Chat Application
+## Encrypted Chat Application
 This is a simple encrypted chat application built in Python. It uses RSA encryption to secure the messages sent between the server and the client.
 
 ## Testing with Wireshark
